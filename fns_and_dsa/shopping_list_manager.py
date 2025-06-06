@@ -1,6 +1,6 @@
 # Function to display the menu options to the user
 def display_menu():
-    print("Shopping List Manager.")
+    print("Shopping List Manager")
     print("1. Add Item")
     print("2. Remove Item")
     print("3. View List")
