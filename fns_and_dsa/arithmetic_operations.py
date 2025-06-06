@@ -1,5 +1,5 @@
 # Function definition to perform operations
-def perform_operation(num1: float, num2: float, operation: str):
+def perform_operation(num1, num2, operation):
     if operation == "add":
         result = num1 + num2
     elif operation == "subtract":
