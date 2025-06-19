@@ -1,7 +1,7 @@
 # Book class
 class Book:
     # Constructor
-    def __init_(self, title: str, author: str, year: int):
+    def __init__(self, title: str, author: str, year: int):
         self.title = title
         self.author = author
         self.year = year
